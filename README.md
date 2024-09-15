@@ -9,4 +9,4 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 
 ## Comment
 >Qiyuan Yin
-> Excellent job! Nowadays, mobile devices take up a large amount of market space. However, there is no general rules for coding and swe. Hope we can solve this one day!
+> Excellent job. Nowadays, mobile devices take up a large amount of market space. However, there is no general rules for coding and swe. Hope we can solve this one day.
